@@ -1,0 +1,47 @@
+.main_container{
+    margin-top: 60px;
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    color: white;
+}
+.logo{
+    width: 100%;
+}
+.container_left{
+    width: 50%;
+    margin-left: 10%;
+    margin-inline-start: 10%;
+    border: 2px solid black;
+}
+.container_right{
+    background-color: white;
+    color: black;
+    border: 1px solid plum;
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.makeStyles-root-2{
+    margin-left: 20%;
+    
+}
+.btn{
+    width: 60%;
+}
+.list{
+    list-style-type: none;
+    font-size: large;
+}
+.main_sub_container{
+    color: black;
+    background-color: beige;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;
+    width: 80%;
+}
+.MuiSvgIcon-root{
+    margin-right: 2px;
+    padding: 0px;
+}
